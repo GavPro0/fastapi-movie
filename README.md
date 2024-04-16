@@ -1,4 +1,4 @@
-# fastapi-movie
+# fastapi-movie [2-s]
 
 ## Create and Activate VirtualEnv
 ```sh
@@ -30,7 +30,7 @@ pip3 install uvicorn
 
 ```
 
-## Test FastAPI with Local Host.
+## Test FastAPI with Local Host
 ```sh
 # Run FastAPI code. 
 uvicorn main:app
@@ -40,7 +40,7 @@ http://127.0.0.1:8000
 
 ```
 
-## Test FastAPI with Local Network.
+## Test FastAPI with Local Network
 ```sh
 # Run FastAPI code, reload changes, set port and enable network. 
 uvicorn main:app --reload --port 5000 --host 0.0.0.0

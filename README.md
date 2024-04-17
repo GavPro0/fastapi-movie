@@ -1,4 +1,4 @@
-# fastapi-movie [3-s]
+# fastapi-movie [main]
 
 ## Create and Activate VirtualEnv
 ```sh
@@ -18,7 +18,6 @@ deactivate
 # Pip Upgrade.
 python -m pip install --upgrade pip
 python3 -m pip install --upgrade pip
-
 
 # Install Libs.
 pip install fastapi

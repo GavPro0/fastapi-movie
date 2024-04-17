@@ -1,4 +1,4 @@
-# fastapi-movie [5-s]
+# fastapi-movie [main]
 
 ## Create and Activate VirtualEnv
 ```sh
@@ -47,7 +47,7 @@ uvicorn main:app --reload --port 5000 --host 0.0.0.0
 http://127.0.0.1:5000
 http://127.0.0.1:5000/movies
 
-# Docs and Tests with Swagger
+# Docs and Tests with Swagger.
 http://127.0.0.1:5000/docs
 http://127.0.0.1:5000/docs#/default/message__get
 

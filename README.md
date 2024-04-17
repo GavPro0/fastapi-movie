@@ -1,4 +1,4 @@
-# fastapi-movie [6-s]
+# fastapi-movie [main]
 
 ## Create and Activate VirtualEnv
 ```sh
